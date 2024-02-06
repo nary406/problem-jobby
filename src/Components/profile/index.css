@@ -1,0 +1,22 @@
+.profile_div {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  padding: 10px;
+  width: 100%;
+  height: 260px;
+  margin: auto;
+  margin-bottom: 50px;
+  border-radius: 20px;
+}
+
+.failure_container_3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  margin: auto;
+  align-items: center;
+}
+.loaderSpin {
+  height: 60px;
+}
